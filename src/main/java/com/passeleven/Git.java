@@ -9,6 +9,6 @@ public class Git {
         System.out.println("hello,git master test");
         System.out.println("hello,git hot-fix test");
         System.out.println("push test");
-         System.out.println("pull test");
+         
     }
 }
